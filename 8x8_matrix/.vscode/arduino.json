@@ -1,0 +1,5 @@
+{
+    "port": "/dev/tty.usbserial-1413330",
+    "board": "arduino:avr:uno",
+    "sketch": "8x8_matrix.ino"
+}
